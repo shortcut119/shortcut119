@@ -23,7 +23,7 @@ int main() {
 }
 ```
 
-## 💥My Skills:
+## 💥My Skills
 <br />
 
 <table align="center">
