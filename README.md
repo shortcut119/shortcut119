@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Full%20Stack%20%2B%20AI%20Engineer&fontSize=48&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
+<p align="center">
+  <img width="100%" src="./assets/header.svg" alt="Full Stack + AI Engineer" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -6,7 +8,9 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" />
+<p align="center">
+  <img width="100%" src="./assets/divider.svg" alt="" />
+</p>
 
 ## About Me.. <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
 
