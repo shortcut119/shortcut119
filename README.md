@@ -1,5 +1,9 @@
 <p align="center">
-  <img width="100%" src="./assets/header.svg" alt="Full Stack + AI Engineer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+    <img width="100%" src="./assets/header-dark.svg" alt="Full Stack + AI Engineer" />
+  </picture>
 </p>
 
 <p align="center">
