@@ -6,6 +6,7 @@
   </a>
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" />
 
 ## About Me.. <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
 
@@ -155,5 +156,3 @@ int main() {
   </tr>
 </table>
 <h2></h2>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" />
